@@ -1,6 +1,6 @@
 # Hi, I'm Chamithu 👋
 
-### IT Undergraduate | Aspiring Software Developer | Cybersecurity Enthusiast
+### IT Undergraduate at SLIIT | Aspiring Software Developer | Cybersecurity Enthusiast
 
 I'm an IT undergraduate passionate about software development, cybersecurity, and building creative digital solutions.
 
